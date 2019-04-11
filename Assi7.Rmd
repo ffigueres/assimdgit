@@ -1,0 +1,23 @@
+---
+title: 'Mendeley: Recommendation Systems for Academic Literature'
+subtitle: 'DATA-607, Spring 2019'
+author: 'Fernando Figueres'
+output:
+  html_document:
+    df_print: paged
+---
+
+
+
+Mendeley’s target users are researchers and other academics who can benefit from their reference management system and the community that’s created around It.
+Researches can keep track of key contributors to their field and organize the papers that they publish. At the same time, users can promote their own work and network with likeminded individuals.
+Mendeley’s recommender system helps researches stay up to date with literature in their field and develop a network of similar peers by using the user’s self-described interests and their article collection to suggest similar articles and authors.
+Their system relies content based and collaborative filtering. Initial recommendations are based on information that users submit as part of their personal profile. As they collect references in their library, collaborative filtering is used to suggest papers that likeminded users have added to their collections.
+The system focuses on peer reviewed academic writing which could be limiting its appeal to students and other demographics. The categorization and recommendation criteria could be expanded to include the relative time commitment and technical expertise needed to read the papers. 
+
+
+
+
+**References**
+
+Berkovsky, S., Cantador, I., ... Jack, K., 2018. Academic Recommendations: The Mendeley Case, in: Collaborative Recommendations. WORLD SCIENTIFIC, pp. 599–625. doi:10.1142/9789813275355_0018
