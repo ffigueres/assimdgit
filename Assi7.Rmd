@@ -8,7 +8,6 @@ output:
 ---
 
 
-
 Mendeley’s target users are researchers and other academics who can benefit from their reference management system and the community that’s created around It.
 Researches can keep track of key contributors to their field and organize the papers that they publish. At the same time, users can promote their own work and network with likeminded individuals.
 Mendeley’s recommender system helps researches stay up to date with literature in their field and develop a network of similar peers by using the user’s self-described interests and their article collection to suggest similar articles and authors.
